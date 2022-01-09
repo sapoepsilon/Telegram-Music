@@ -16,5 +16,5 @@ struct ChatInfo {
     var isMarkedAsUnread: Bool
     var unreadCount: Int
     var unreadMentionCount: Int
-    var lastRead
+    var lastRead: String
 }
